@@ -3,6 +3,7 @@
 You can use the [editor on GitHub](https://github.com/baidongn/baidongn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![微信截图_20220914113626](https://user-images.githubusercontent.com/50824583/190588268-0e21799c-0ec1-4abc-8be3-eb3bb87de5a0.png)
 
 ### Markdown
 
